@@ -1,5 +1,6 @@
-#Folder Structure
-prep01 : tugas 01 tentang git
+# Folder Structure
+
+tugasgit01 : tugas 01 tentang git
 
 1. biodata.txt
 2. hello.html
